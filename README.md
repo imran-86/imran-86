@@ -20,6 +20,17 @@ Hello! I'm **Imran Ahmed** - a dedicated **Full-Stack Developer** specializing i
 | **🔧 Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime Text"> |
 
 
+## 🏆 Problem Solving Profiles
+
+| Platform | Profile |
+|----------|---------|
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imran_86/) |
+| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/imran_86) |
+| **AtCoder** | [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Imran_86) |
+| **VJudge** | [![VJudge](https://img.shields.io/badge/VJudge-000000?style=for-the-badge)](https://vjudge.net/user/Imran86) |
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-86&show_icons=true&locale=en" alt="imran-86" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-86&" alt="imran-86" /></p>
