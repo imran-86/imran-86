@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./Photo.png" alt="Imran Ahmed - MERN Stack Developer" width="100%"/>
+</div>
 
 
 ## About Me
