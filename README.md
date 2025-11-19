@@ -41,11 +41,19 @@ Hello! I'm **Imran Ahmed** - a dedicated **Full-Stack Developer** specializing i
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=imran-86&label=Profile%20views&color=0e75b6&style=flat" alt="imran-86" /> 
 </p>
-## Contact
-Feel free to  connect with me on
 
-- **Email**: ahmedimranmd55@gmail.com
-- **Facebook** : [Click Here](https://web.facebook.com/ahmed.imran.75491856/)
+## 📞 Connect With Me
 
+<p align="center">
+  <a href="mailto:ahmedimranmd55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://web.facebook.com/ahmed.imran.75491856/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-Let's connect and discuss exciting opportunities!
+**Let's connect and discuss exciting opportunities!** 🚀
