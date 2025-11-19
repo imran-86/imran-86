@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-86&label=Profile%20views&color=0e75b6&style=flat" alt="imran-86" /> </p>
+
 
 
 ## About Me
@@ -27,7 +27,7 @@ Hello! I'm **Imran Ahmed** - a dedicated **Full-Stack Developer** specializing i
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-86&" alt="imran-86" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-86&label=Profile%20views&color=0e75b6&style=flat" alt="imran-86" /> </p>
 ## Contact
 Feel free to  connect with me on
 
