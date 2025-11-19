@@ -31,11 +31,16 @@ Hello! I'm **Imran Ahmed** - a dedicated **Full-Stack Developer** specializing i
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-86&show_icons=true&locale=en" alt="imran-86" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-86&" alt="imran-86" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imran-86&show_icons=true&locale=en" alt="imran-86" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-86&" alt="imran-86" height="165" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-86&label=Profile%20views&color=0e75b6&style=flat" alt="imran-86" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=imran-86&label=Profile%20views&color=0e75b6&style=flat" alt="imran-86" /> 
+</p>
 ## Contact
 Feel free to  connect with me on
 
